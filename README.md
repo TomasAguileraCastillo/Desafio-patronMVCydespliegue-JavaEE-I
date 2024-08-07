@@ -67,3 +67,31 @@ y correo del usuario.
 
 (2 Puntos)
 ¡Mucho éxito
+
+
+Imagenes del proyecto Realizado
+-
+
+Imagen 1
+
+![alt text](image-2.png)
+
+Imagen 2
+
+![alt text](image-3.png)
+
+Imagen 3
+
+![alt text](image-5.png)
+
+Imagen 4
+
+![alt text](image-6.png)
+
+Imagen 5 
+
+![alt text](image-7.png)
+
+Imagen 6
+
+![alt text](image-8.png)
