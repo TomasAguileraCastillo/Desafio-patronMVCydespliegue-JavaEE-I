@@ -20,7 +20,7 @@ El equipo encargado de la estructura de la base de datos ha construido el siguie
 
 
 <p align="center">
-  <img width="460" height="300" src="![alt text](image.png)">
+  <img width="460" height="300" src="https://github.com/TomasAguileraCastillo/Desafio-patronMVCydespliegue-JavaEE-I/blob/master/image-1.png?raw=true">
 </p>
 
 
