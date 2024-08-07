@@ -18,6 +18,14 @@ usuarios que permita controlar los accesos al aplicativo.
 
 El equipo encargado de la estructura de la base de datos ha construido el siguiente modelo, que cumple con los requerimientos de esta primera etapa:
 
+
+<p align="center">
+  <img width="460" height="300" src="![alt text](image.png)">
+</p>
+
+
+
+
 Mediante la utilización del IDE de desarrollo Eclipse, se debe crear un nuevo proyecto Web Dinámico llamado “StartUp”. 
 
 Este proyecto debe ser desplegado bajo el servidor Web Apache
