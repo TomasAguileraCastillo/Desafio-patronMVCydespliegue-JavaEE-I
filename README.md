@@ -16,7 +16,7 @@ Descripción
 Una StartUp ha solicitado la creación del Core de un sistema de gestión y administración de trabajadores, para ello han requerido la creación de las pantallas de Registro y Login de
 usuarios que permita controlar los accesos al aplicativo. 
 
-El equipo encargado de la estructura de la base de datos ha construido el siguiente modelo, que cumple con los requerimientos de esta primera etapa:
+El equipo encargado de la estructura de la base de datos, ha construido el siguiente modelo, que cumple con los requerimientos de esta primera etapa:
 
 
 <p align="center">
@@ -45,7 +45,7 @@ Requerimientos
 2. Crear la estructura para el archivo index.jsp correspondiente a la vista requerida,
 considerando el envío de los datos hacia el Servlet.
 
-(1 Puntos)
+(1 Puntos).
 
 3. Desplegar formulario registro.jsp para la captura de los datos del usuario según
 modelo de base datos y realizar la persistencia en base datos.
