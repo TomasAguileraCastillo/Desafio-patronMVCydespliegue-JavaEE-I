@@ -66,6 +66,7 @@ correo y password y realizar las validaciones de existencia en base datos.
 y correo del usuario.
 
 (2 Puntos)
+
 ¡Mucho éxito
 
 
