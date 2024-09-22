@@ -12,6 +12,8 @@ import javax.servlet.http.HttpServletResponse;
 public class AccessController extends HttpServlet {
 	private static final long serialVersionUID = 1L;   
     public AccessController() {
+
+	    
         super();
      }
     
